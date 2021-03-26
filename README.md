@@ -1,4 +1,4 @@
-# sql-project
+# Aspiring Small Businesses
 ISBA 4715 SQL Individual Portfolio Project
 
 Project Name

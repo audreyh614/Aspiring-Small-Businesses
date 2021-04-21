@@ -1,4 +1,4 @@
-# Businesses Loans
+# Business Loans
 ISBA 4715 SQL Individual Portfolio Project
 
 Project Name

@@ -1,4 +1,4 @@
-# Business Loans
+# Aiding Small and Medium Businesses
 ISBA 4715 SQL Individual Portfolio Project
 
 Project Name

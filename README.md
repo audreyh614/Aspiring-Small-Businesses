@@ -37,7 +37,7 @@ __*Characteristics:*__ The webscrape is data relating to loan information of sma
 If I had more time two improvements I would make are:
 1) ...
 2) ...
-
+make sure to mentiom you had difficulty finding free public datasets and APIs that contained loan information for small businesses, which is why I extracted general content from the source of my webscrape.
 
 Data
   a. Source

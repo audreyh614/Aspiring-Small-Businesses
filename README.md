@@ -34,18 +34,12 @@ __*Characteristics:*__ The webscrape is data relating to loan information of sma
 
 
 ## Notebooks
-- link to data_collection:
-- link to sql_analysis:
-- link to presentation:
+- link to data_collection: description of the notebook's purpose
+- link to sql_analysis: description of the notebook's purpose
+- link to presentation: description of the notebook's purpose
 
 ## Future Improvements
 If I had more time two improvements I would make are:
 1) ...
 2) ...
 make sure to mentiom you had difficulty finding free public datasets and APIs that contained loan information for small businesses, which is why I extracted general content from the source of my webscrape.
-
-
-Notebooks
-  a. Links to the notebook and a description of the notebook's purpose
-Future Improvements
-  a. Identify 1-2 improvements if you had more time

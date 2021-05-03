@@ -25,7 +25,7 @@ The SQL Individual Portfolio project relates to the Business Analyst position th
 
 
 ### Data
-__*Source:*__ Webscraping from the corresponding website: https://ppp.pubb.org/ca/ , in addition to, generating faux data for project purposes.
+__*Source:*__ Webscraping from the corresponding website: https://ppp.pubb.org/ca/ , in addition to, generating fake data for project purposes.
 
 __*Characteristics:*__
 ### Notebooks

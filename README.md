@@ -34,9 +34,9 @@ __*Characteristics:*__ The webscrape is data relating to loan information of sma
 
 
 ## Notebooks
-link to data_collection:
-link to sql_analysis:
-link to presentation:
+- link to data_collection:
+- link to sql_analysis:
+- link to presentation:
 
 ## Future Improvements
 If I had more time two improvements I would make are:

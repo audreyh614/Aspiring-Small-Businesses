@@ -11,7 +11,7 @@ The firm has received numerous applications from interested businesses requestin
 
 
 ## Job Description
-JP Morgan is a leading financial services coorporation As a Business Analyst employed by this company, some duties include having the knowledge or ability to:
+JP Morgan Chase & Co. is a leading American multi-national investment bank within the financial services industry with . As a Business Analyst employed by this company, some duties include having the knowledge or ability to:
 
 - Improve software products and applications designed for use in the financial services industry through applying, utilizing, and constructing business and logical data models and modeling methods. 
 

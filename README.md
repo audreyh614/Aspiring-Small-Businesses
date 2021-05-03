@@ -16,7 +16,7 @@ As a Business Analyst employed by JP Morgan, some duties include having the know
 
 - Design processes for data extraction, database templates, and feeds.
 
-_*Some required skills include:*_ - 
+__*Some required skills include*__ - 
 minimum one year experience relating to the following: "designing database models... collating data from various data sources such as data warehouses; analyzing data and summarizing findings; data modeling, analytics, and reporting; SQL using various tools... PL/SQL data processes; scripting automation solutions; systems and coding languages such as HTML5, CSS, XML, JavaScript, Java, or Python; responsive web and mobile application design..."
 
 For more information regarding the responsibilities that come with this role, visit here: https://www.simplyhired.com/job/qIoitav8SXPZ9fZwioGoXVUNoijiJDgsGsPg5Z0LoQ0xDqUNsZTGiw

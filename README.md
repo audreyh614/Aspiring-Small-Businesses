@@ -21,7 +21,7 @@ minimum one year experience relating to the following: "designing database model
 
 For more information regarding the responsibilities that come with this role, visit here: https://www.simplyhired.com/job/qIoitav8SXPZ9fZwioGoXVUNoijiJDgsGsPg5Z0LoQ0xDqUNsZTGiw
 
-The SQL Individual Portfolio project relates to the Business Analyst position through the skills exhibited to execute the project. Exemplifying some of the skills sought by JPMC recruiters, such as webscraping, data analysis, and modeling insights through the use of SQL.
+The SQL Individual Portfolio project relates to the Business Analyst position through the skills exhibited to execute the project. Exemplifying valuable skills sought by JPMC recruiters, such as webscraping, data analysis, and modeling insights through the use of SQL.
 
 
 ### Data

@@ -1,5 +1,5 @@
 # Aiding Small and Medium B.I.P.O.C Businesses
-*B.I.P.O.C means Black, Indigenous, People of Color
+*B.I.P.O.C means Black, Indigenous, People of Color*
 
 ### Notebooks
 

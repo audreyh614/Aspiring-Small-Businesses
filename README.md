@@ -1,5 +1,6 @@
-# Aiding Small and Medium Businesses
-ISBA 4715 SQL Individual Portfolio Project
+# Aiding Small and Medium B.I.P.O.C Businesses
+
+## Notebooks
 
 Project Name
 Project Objective

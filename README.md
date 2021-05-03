@@ -15,7 +15,10 @@ As a Business Analyst employed by JP Morgan, some duties include having the know
 
 - Design processes for data extraction, database templates, and feeds.
 
-This project relates to this position being that throughout it we exemplify some of the skills sought by JPMC recruiters.
+*Some required skills include:* 
+minimum one year experience relating to the following: "designing database models... collating data from various data sources such as data warehouses; analyzing data and summarizing findings; data modeling, analytics, and reporting; SQL using various tools... PL/SQL data processes; scripting automation solutions; systems and coding languages such as HTML5, CSS, XML, JavaScript, Java, or Python; responsive web and mobile application design..."
+
+The SQL Individual Portfolio project relates to the Business Analyst position through the skills exhibited to execute the project. Exemplifying some of the skills sought by JPMC recruiters, such as webscraping, data analysis, and modeling insights through the use of SQL.
 
 
 

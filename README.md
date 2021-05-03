@@ -5,7 +5,6 @@
 JP Morgan Chase & Co. (JPMC) has announced their global initiative to invest $350 million into growing underserved businesses owned by members of underrepresented communities. "More than 40% will include low-cost loans and equity investments, removing a critical financial barrier for Black, Latinx, women and other underserved entrepreneurs.” The firm intends to invest $42.5 million "to expand successful Entrepreneurs of Color Fund to more U.S. cities and introduce data-driven policy solutions to increase access to capital for historically underserved entrepreneurs".
 
 *For more information relating to this global commitment, read:*
-
 https://www.jpmorganchase.com/news-stories/jpmc-commits-350m-to-grow-black-latinx-women-owned-sb
 
 JP Morgan has received numerous applications from interested businesses requesting to receive aid as a recipient of this initiative. You were recently hired as a Business Analyst and assigned to a team that is orchestrating the implementation of this project. The firm needs your assistance in retaining all of the information they have received from companies and would like for a data expert to translate these insights for them.
@@ -23,7 +22,7 @@ As a Business Analyst employed by JP Morgan, some duties include having the know
 __*Some required skills include*__ - 
 minimum one year experience relating to the following: "designing database models... collating data from various data sources such as data warehouses; analyzing data and summarizing findings; data modeling, analytics, and reporting; SQL using various tools... PL/SQL data processes; scripting automation solutions; systems and coding languages such as HTML5, CSS, XML, JavaScript, Java, or Python; responsive web and mobile application design..."
 
-For more information regarding the responsibilities that come with this role, visit here: https://www.simplyhired.com/job/qIoitav8SXPZ9fZwioGoXVUNoijiJDgsGsPg5Z0LoQ0xDqUNsZTGiw
+*For more information regarding the responsibilities that come with this role, visit here:* https://www.simplyhired.com/job/qIoitav8SXPZ9fZwioGoXVUNoijiJDgsGsPg5Z0LoQ0xDqUNsZTGiw
 
 The SQL Individual Portfolio project relates to the Business Analyst position through the skills exhibited to execute the project including, but not limited to: data collection, data visualization, and natural language processing. Furthermore, it exemplifies these valuable skills sought by JPMC recruiters, such as webscraping, data analysis, and modeling insights through the use of SQL.
 

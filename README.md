@@ -7,9 +7,9 @@ JP Morgan Chase & Co. have announced their global initiative to invest $350 mill
 JP Morgan has received numerous applications from interested businesses requesting to receive aid as a recipient of this initiative. You were recently hired as a Business Analyst and assigned to a team that is orchestrating the implementation of this project. The firm needs your assistance in retaining all of the information they have received from companies and would like for a data expert to translate these insights for them.
 
 ### Job Description
-As a Business Analyst employed by JP Morgan, some duties include:
+As a Business Analyst employed by JP Morgan, some duties include having the knowledge or ability to:
 
-- Improving software products and applications designed for use in the financial services industry through applying, utilizing, and constructing business and logical data models and modeling methods. 
+- Improve software products and applications designed for use in the financial services industry through applying, utilizing, and constructing business and logical data models and modeling methods. 
 
 - Conduct interviews, analyze, evaluate, and deduct market, functional, and technical requirements for various financial industry-based IT items.
 

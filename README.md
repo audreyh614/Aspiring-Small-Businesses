@@ -3,6 +3,12 @@
 
 ### Notebooks
 
+### Future Improvements
+If I had more time two improvements I would make are:
+1) ...
+2) ...
+
+
 Project Name
 Project Objective
 What problem are you solving?

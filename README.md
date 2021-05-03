@@ -2,7 +2,10 @@
 *B.I.P.O.C means Black, Indigenous, People of Color*
 
 ### Project Objective
-
+### Job Description
+### Data
+__Source:__
+__Characteristics:__
 ### Notebooks
 
 ### Future Improvements

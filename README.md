@@ -4,9 +4,9 @@
 ### Project Objective
 ### Job Description
 ### Data
-__Source:__
+__*Source:*__
 
-__Characteristics:__
+__*Characteristics:*__
 ### Notebooks
 
 ### Future Improvements

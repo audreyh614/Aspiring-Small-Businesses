@@ -7,11 +7,11 @@ JP Morgan Chase & Co. (JPMC) has announced their global initiative to invest $35
 *For more information relating to this global commitment, read:*
 https://www.jpmorganchase.com/news-stories/jpmc-commits-350m-to-grow-black-latinx-women-owned-sb
 
-JP Morgan has received numerous applications from interested businesses requesting to receive aid as a recipient of this initiative. You were recently hired as a Business Analyst and assigned to a team that is orchestrating the implementation of this project. The firm needs your assistance in retaining all of the information they have received from companies and would like for a data expert to translate these insights for them.
+The firm has received numerous applications from interested businesses requesting to receive aid as a recipient of this initiative. You were recently hired as a Business Analyst and assigned to a team that is orchestrating the implementation of this project. They need your assistance in retaining all of the information they have received from companies and would like for a data expert to translate these insights for them.
 
 
 ## Job Description
-As a Business Analyst employed by JP Morgan, some duties include having the knowledge or ability to:
+JP Morgan is a leading financial services coorporation As a Business Analyst employed by this company, some duties include having the knowledge or ability to:
 
 - Improve software products and applications designed for use in the financial services industry through applying, utilizing, and constructing business and logical data models and modeling methods. 
 

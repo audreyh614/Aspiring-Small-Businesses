@@ -7,7 +7,9 @@ JP Morgan Chase & Co. have announced their global initiative to invest $350 mill
 JP Morgan has received numerous applications from interested businesses requesting to receive aid as a recipient of this initiative. You were recently hired as a Business Analyst and assigned to a team that is orchestrating the implementation of this project. The firm needs your assistance in retaining all of the information they have received from companies and would like for a data expert to translate these insights for them.
 
 ### Job Description
+As a Business Analyst working for JP Morgan, some duties include:
 
+For more information regarding the responsibilities that come with this role, visit here: https://www.simplyhired.com/job/qIoitav8SXPZ9fZwioGoXVUNoijiJDgsGsPg5Z0LoQ0xDqUNsZTGiw
 
 ### Data
 __*Source:*__
@@ -21,10 +23,6 @@ If I had more time two improvements I would make are:
 2) ...
 
 
-Project Name
-Project Objective
-  a. What problem are you solving?
-  b. How are you solving this problem?
 Job Description
   a. 1 paragraph explaining the company, title, and job description for the job posting you selected
   b. Breifly explain how the project is related to the job posting

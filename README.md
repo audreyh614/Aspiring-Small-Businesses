@@ -30,7 +30,7 @@ The SQL Individual Portfolio project relates to the Business Analyst position th
 ### Data
 __*Source:*__ Webscraping from the corresponding website: https://ppp.pubb.org/ca/ , in addition to, creating and generating fake data for project purposes.
 
-__*Characteristics:*__ The webscrape is data relating to loan information of small to medium-sized businesses in California that were approved for a loan under the Payment Protection Program (PPP). The source only provides businesses that requested a loan greater than $150,000.
+__*Characteristics:*__ The webscrape is data relating to loan information of small to medium-sized businesses in California that were approved for a loan under the Payment Protection Program (PPP). The source only provides businesses that were approved for a loan greater than $150,000.
 ### Notebooks
 
 ### Future Improvements

@@ -2,7 +2,7 @@
 *B.I.P.O.C means Black, Indigenous, People of Color*
 
 ### Project Objective
-JP Morgan Chase & Co. have announced their global initiative to invest $350 million into growing underserved businesses owned by members of underrepresented communities. "More than 40% will include low-cost loans and equity investments, removing a critical financial barrier for Black, Latinx, women and other underserved entrepreneurs.” The firm intends to invest $42.5 million "to expand successful Entrepreneurs of Color Fund to more U.S. cities and introduces data-driven policy solutions to increase access to capital for historically underserved entrepreneurs".
+JP Morgan Chase & Co. have announced their global initiative to invest $350 million into growing underserved businesses owned by members of underrepresented communities. "More than 40% will include low-cost loans and equity investments, removing a critical financial barrier for Black, Latinx, women and other underserved entrepreneurs.” The firm intends to invest $42.5 million "to expand successful Entrepreneurs of Color Fund to more U.S. cities and introduce data-driven policy solutions to increase access to capital for historically underserved entrepreneurs".
 
 ### Job Description
 

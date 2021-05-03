@@ -3,7 +3,8 @@
 
 ### Project Objective
 JP Morgan Chase & Co. (JPMC) has announced their global initiative to invest $350 million into growing underserved businesses owned by members of underrepresented communities. "More than 40% will include low-cost loans and equity investments, removing a critical financial barrier for Black, Latinx, women and other underserved entrepreneurs.” The firm intends to invest $42.5 million "to expand successful Entrepreneurs of Color Fund to more U.S. cities and introduce data-driven policy solutions to increase access to capital for historically underserved entrepreneurs".
-
+*For more information relating to this global commitment:*
+https://www.jpmorganchase.com/news-stories/jpmc-commits-350m-to-grow-black-latinx-women-owned-sb
 JP Morgan has received numerous applications from interested businesses requesting to receive aid as a recipient of this initiative. You were recently hired as a Business Analyst and assigned to a team that is orchestrating the implementation of this project. The firm needs your assistance in retaining all of the information they have received from companies and would like for a data expert to translate these insights for them.
 
 

@@ -41,6 +41,6 @@ __*Characteristics:*__ The webscrape is data relating to loan information of sma
 ## Future Improvements
 If I had more time two improvements I would make are:
 1) Find a way to webscrape additional information on businesses returned from the web scrape:
-    - It would have been nice to have add information to my existing owners table that related to the actual California businesses I webscraped. I could have generated fake data on my part so that I could have insights to pull on that, but it wasn't necessary. Also I'm not too sure those Califoria businesses that were approved for those loans were actually a B.I.P.O.C owned businesses. 
+    - It would have been nice to have or add information to my existing owners table that related to the actual California businesses I webscraped. I could have generated fake data on my part so that I could have insights to pull on that, but it wasn't necessary. Also I'm not too sure those Califoria businesses that were approved for those loans were actually a B.I.P.O.C owned businesses. 
 3) ...
 make sure to mentiom you had difficulty finding free public datasets and APIs that contained loan information for small businesses, which is why I extracted general content from the source of my webscrape.

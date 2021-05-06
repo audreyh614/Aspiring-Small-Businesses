@@ -42,7 +42,7 @@ __*Characteristics:*__ The webscrape is data relating to loan information of sma
 ## Future Improvements
 If I had more time two improvements I would make are:
 1) __*Find a way to webscrape additional information on businesses returned from the web scrape through a deeper scrape:*__
-    - It would have been nice to scrape specific details relating to each company such as the business type and whether it was a nonprofit which are two attributes I seen, but were deeper within the link of each company and not available on the overall page. I also highly doubt those California businesses approved for those loans were actually B.I.P.O.C owned businesses, so I wish it were true. 
+    - It would have been nice to scrape specific details relating to each company such as the business type and whether it was a nonprofit which are two attributes I seen, but were deeper within the link of each company and not available on the overall page. I also highly doubt those California businesses which were approved for those loans are actually B.I.P.O.C owned businesses, so I wish it were true. 
 
 2) __*Try to improve or expand my search for public information relating to funding (loan/grant datasets):*__
     - I had difficulty finding free public datasets and APIs that contained loan information for small businesses, which is why I extracted general content from the source of my webscrape.

@@ -34,7 +34,7 @@ __*Characteristics:*__ The webscrape is data relating to loan information of sma
 
 
 ## Notebooks
-- link to data_collection: description of the notebook's purpose
+- link to data_collection: https://github.com/audreyh614/Aspiring-Small-Businesses/blob/77acc5e805fa77ea59db6a7f633b39f633f24447/data_collection.ipynbdescription of the notebook's purpose
 - link to sql_analysis: description of the notebook's purpose
 - link to presentation: description of the notebook's purpose
 

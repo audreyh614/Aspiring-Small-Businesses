@@ -52,4 +52,4 @@ If I had more time two improvements I would make are:
     - It would have been nice to scrape specific details relating to each company such as the business type and whether it was a nonprofit which are two attributes I seen, but were deeper within the link of each company and not available on the overall page. I also highly doubt those California businesses which were approved for those loans are actually B.I.P.O.C owned businesses, so I wish it were true. 
 
 2) __*Try to improve or expand my search for public information relating to funding (loan/grant datasets):*__
-    - I had difficulty finding free public datasets and APIs that contained loan information for small businesses, which is why I extracted general content from the source of my webscrape.
+    - I had difficulty finding free public datasets and APIs that contained loan information for small businesses, which is why I extracted general content from the source of my webscrape..

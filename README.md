@@ -35,7 +35,11 @@ __*Characteristics:*__ The webscrape is data relating to loan information of sma
 
 ## Notebooks
 - link to data_collection: https://github.com/audreyh614/Aspiring-Small-Businesses/blob/77acc5e805fa77ea59db6a7f633b39f633f24447/data_collection.ipynb
-    - description of the notebook's purpose
+    - This notebook is a webscrape of California businesses that have been approved for a loan under the Payment Protection Program. All information scraped goes into a database with the following network:
+<img width="547" alt="image" src="https://user-images.githubusercontent.com/58491971/117247543-4a4ab400-adf3-11eb-9498-f691aff76d18.png">
+
+
+
 - link to sql_analysis: https://github.com/audreyh614/Aspiring-Small-Businesses/blob/71426038b57488e7c5e8a10154eb75e5a2e2457f/sql_analysis.ipynb
     - description of the notebook's purpose
 - link to presentation: description of the notebook's purpose

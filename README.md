@@ -30,18 +30,19 @@ The SQL Individual Portfolio project relates to the Business Analyst position th
 ## Data
 __*Source:*__ Webscraping from the corresponding website: https://ppp.pubb.org/ca/ , in addition to, creating and generating fake data for project purposes.
 
-__*Characteristics:*__ The webscrape is data relating to loan information of small to medium-sized businesses in California that received a loan under the Payment Protection Program (PPP). The source only provides businesses that were approved for a loan greater than $150,000. Businesses approved for a loan less than $150,000 or received a loan and returned it are excluded from the data extracted from the source. For project purposes, one of the components are to assume that Chase Bank is the lender of these loans. It is assumed that a business can only apply for either a loan or a grant within a given period, not both.
+__*Characteristics:*__ The webscrape is data relating to loan information of small to medium-sized businesses in California that received a loan under the Paycheck Protection Program (PPP). The source only provides businesses that were approved for a loan greater than $150,000. Businesses approved for a loan less than $150,000 or received a loan and returned it are excluded from the data extracted from the source. For project purposes, one of the components are to assume that Chase Bank is the lender of these loans. It is assumed that a business can only apply for either a loan or a grant within a given period, not both.
 
 
 ## Notebooks
 - link to data_collection: https://github.com/audreyh614/Aspiring-Small-Businesses/blob/77acc5e805fa77ea59db6a7f633b39f633f24447/data_collection.ipynb
-    - This notebook is a webscrape of California businesses that have been approved for a loan under the Payment Protection Program. All information scraped goes into a database with the following network:
+    - This notebook is a webscrape of California businesses that have been approved for a loan under the Paycheck Protection Program. All information scraped goes into a database with the following network:
 <img width="547" alt="image" src="https://user-images.githubusercontent.com/58491971/117247543-4a4ab400-adf3-11eb-9498-f691aff76d18.png">
 
 
-
 - link to sql_analysis: https://github.com/audreyh614/Aspiring-Small-Businesses/blob/71426038b57488e7c5e8a10154eb75e5a2e2457f/sql_analysis.ipynb
-    - description of the notebook's purpose
+    - This notebook explores a number of queries with a designated purpose that relates to the functionality of the coorporation the Business Analyst has been hired for, JP Morgan. Within this you will observe 
+
+
 - link to presentation: description of the notebook's purpose
 
 

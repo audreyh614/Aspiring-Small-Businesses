@@ -40,7 +40,7 @@ __*Characteristics:*__ The webscrape is data relating to loan information of sma
 
 
 - link to sql_analysis: https://github.com/audreyh614/Aspiring-Small-Businesses/blob/732e60ee75019d501130bc23a3f37f006596e6f7/sql_analysis.ipynb
-    - This notebook explores a number of queries with a designated purpose that relates to the functionality of the coorporation the Business Analyst has been hired for, JP Morgan. Within this you will observe 
+    - This notebook explores a number of queries with a designated purpose that relates to the functionality of the coorporation the Business Analyst has been hired for, JP Morgan. Within this you will observe the completion of business requests and the results/ findings of such as it relates to businesses who applied for aid in either a loan or grant as a participant of this initiative.
 
 
 - link to presentation: description of the notebook's purpose

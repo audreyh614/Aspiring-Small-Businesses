@@ -44,8 +44,9 @@ __*Characteristics:*__ The webscrape is data relating to loan information of sma
 
 
 - link to presentation: http://127.0.0.1:8000/presentation.slides.html#/
-                
+- 
                 video: https://www.loom.com/share/9384bd924253415fab1d7e4448a0a558
+                
     - Above is a link to the presentation of this subject matter. It will be a walkthrough of this individual project and showcasing different components of it.
 
 ## Future Improvements

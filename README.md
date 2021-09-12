@@ -43,7 +43,7 @@ __*Characteristics:*__ The webscrape is data relating to loan information of sma
     - This notebook explores a number of queries with a designated purpose that relates to the functionality of the coorporation the Business Analyst has been hired for, JP Morgan. Within this you will observe the completion of business requests and the results/ findings of such as it relates to businesses who applied for aid in the form of a loan or grant.
 
 
-- link to presentation slides: 
+- link to presentation slides: https://www.audreyhammond.info/post/aiding-small-b-i-p-o-c-businesses
                  video: https://www.loom.com/share/9384bd924253415fab1d7e4448a0a558
                 
     - Above is a link to the presentation of this subject matter. It will be a walkthrough of this individual project and showcasing different components of it.
